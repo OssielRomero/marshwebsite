@@ -51,6 +51,7 @@ padding: 2%;
 /* contact page css */
 
 .contact-body {
+
   margin: auto;
   position: fixed;
   width: 100%;
@@ -60,6 +61,7 @@ padding: 2%;
 }
 
 .contact-grid {
+  background-color: red;
   text-align: center;
   justify-content: center;
   width: 80%;
@@ -70,7 +72,7 @@ padding: 2%;
 }
 
 .contact-grid h2 {
-  font-family: 'Anton', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .contact-grid p {
